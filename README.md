@@ -6,7 +6,7 @@ In the project directory, you should run:
 
 ### `json-server --watch db.json`
 
-after that you can run:
+after that you need to create another terminal and you can run:
 
 ### `npm start`
 
